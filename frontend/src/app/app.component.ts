@@ -1,5 +1,4 @@
 import { Component } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
 import {TimelineComponent} from './components/timeline/timeline.component';
 
 @Component({

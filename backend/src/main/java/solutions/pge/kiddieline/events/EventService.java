@@ -3,7 +3,6 @@ package solutions.pge.kiddieline.events;
 import org.springframework.stereotype.Service;
 
 import java.time.Instant;
-import java.time.OffsetDateTime;
 
 @Service
 public class EventService {
